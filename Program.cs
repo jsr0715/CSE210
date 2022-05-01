@@ -21,7 +21,7 @@ namespace xogame
             Console.Clear();
             Program obj = new Program();
             int counter = 0;
-            Console.WriteLine("welcome to X-O game");
+            Console.WriteLine("welcome to Tic-Tac-Toe game!");
             while (counter < 9)
             {
                 obj.Print();
