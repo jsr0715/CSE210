@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace unit02_hilo_game
+namespace unit02_hilo
 {
     public class Director
     {

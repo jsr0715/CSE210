@@ -1,6 +1,6 @@
 using System;
 
-namespace unit02_hilo_game
+namespace unit02_hilo
 {
     class Card
     {

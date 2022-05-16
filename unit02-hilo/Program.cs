@@ -1,6 +1,6 @@
-﻿using unit02_hilo_game;
+﻿using unit02_hilo;
 
-namespace unit02_hilo_game
+namespace unit02_hilo
 {
     class Program{
     
