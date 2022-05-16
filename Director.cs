@@ -22,7 +22,7 @@ namespace unit02_hilo
             }
         }
 
-    
+        
         public void StartGame()
         {
             foreach (Card card in cards){
@@ -36,8 +36,7 @@ namespace unit02_hilo
             }
         }
 
-       
-        public void MainGame(){
+               public void MainGame(){
             Console.WriteLine($"The card is {currentCard}");
             if (!isPlaying)
             {
@@ -72,7 +71,7 @@ namespace unit02_hilo
 
         }
 
-        /// prompt to keep playing
+        /// Prompt for user to keep going
         public void GameCheck(){
             Console.WriteLine($"Your score is: {totalScore}");
             if (totalScore == 0){
@@ -84,7 +83,7 @@ namespace unit02_hilo
             }
 
             currentCard = nextCard;
-            Console.Write("Play again? [y/n] ");
+            Console.Write("Do you want to keep playing? [y/n] ");
             string rollDice = Console.ReadLine();
             isPlaying = (rollDice == "y");
         }
