@@ -47,7 +47,7 @@ namespace unit03_jumper
 
         private void StartUp()
         {
-            Console.WriteLine("\nHint: The Book of Mormon");
+            Console.WriteLine("\nHint: Countries in Asia");
             chosenWord = hiddenWord.pullWord();
             hiddenWord.listWord(chosenWord);
             hiddenWord.createHiddenWord();

@@ -22,7 +22,7 @@ namespace unit03_jumper
 
         public bool checkInput(List<char> guesses, string currentguess){
             if (guesses.Contains(currentguess[0])){
-                Console.WriteLine("You already guessed that letter!");
+                Console.WriteLine("You already typed in that letter!");
                 return true;
             }
             else {
