@@ -4,17 +4,17 @@ using System.IO;
 
 namespace unit03_jumper
 {
-    public class Words{
-        public string words;
+    public class HiddenWord{
+        public string hiddenword;
         List<char> answer = new List<char>();
         public List<char> guess = new List<char>();
 
-        public Word(){
+        public HiddenWord(){
             
         }
 
         public string pullWord(){
-            List<string> lines = new List<string>(File.ReadLines("sample.txt"));
+            List<string> lines = new List<string>(File.ReadLines("solution.txt"));
             Random rand = new Random();
             int randomIndex = rand.Next(0, lines.Count);
             string chosenWord = lines[randomIndex];
@@ -25,7 +25,7 @@ namespace unit03_jumper
             answer.AddRange(ripWord.ToLower());
         }
 
-        public void createWord(){
+        public void createHiddenWord(){
             foreach (int i in answer){
                 guess.Add('_');
             }
