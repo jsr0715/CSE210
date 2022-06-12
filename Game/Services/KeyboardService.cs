@@ -1,22 +1,22 @@
 using Raylib_cs;
-using unit04_greed.GreedGame.Casting;
+using unit04_greed.Game.Casting;
 
 
-namespace unit04_greed.GreedGame.Services
+namespace unit04_greed.Game.Services
 {
-   
+    
     public class KeyboardService
     {
         private int cellSize = 15;
 
-        
+       
         /// <param name="cellSize">The cell size (in pixels).</param>
         public KeyboardService(int cellSize)
         {
             this.cellSize = cellSize;
         }
 
-       
+        
         /// <returns>The direction as an instance of Point.</returns>
         public Point GetDirection()
         {
@@ -33,15 +33,15 @@ namespace unit04_greed.GreedGame.Services
                 dx = 1;
             }
 
+        
+
             Point direction = new Point(dx, dy);
             direction = direction.Scale(cellSize);
 
             return direction;
         }
 
-        /// <summary>
-        /// Keeps Artifacts in motion.
-        /// </summary>
+       
         /// <returns>The direction as an instance of Point.</returns>
         public Point MoveArtifact()
         {

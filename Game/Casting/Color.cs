@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 
-namespace unit04_greed.GreedGame.Casting
+namespace unit04_greed.Game.Casting
 {
     public class Color
     {

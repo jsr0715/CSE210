@@ -1,16 +1,16 @@
 using System.Collections.Generic;
-using unit04_greed.GreedGame.Casting;
-using unit04_greed.GreedGame.Services;
+using unit04_greed.Game.Casting;
+using unit04_greed.Game.Services;
 using System;
 
 using System.IO;
 using System.Linq;
 
-using unit04_greed.GreedGame.Directing;
+using unit04_greed.Game.Directing;
 
 
 
-namespace unit04_greed.GreedGame.Directing
+namespace unit04_greed.Game.Directing
 {
         public class Director
     {

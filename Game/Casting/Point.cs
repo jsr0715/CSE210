@@ -1,4 +1,4 @@
-namespace unit04_greed.GreedGame.Casting
+namespace unit04_greed.Game.Casting
 {
        public class Point
     {

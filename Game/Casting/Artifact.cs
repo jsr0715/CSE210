@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.IO;
 using System;
 
-namespace unit04_greed.GreedGame.Casting
+namespace unit04_greed.Game.Casting
 {
   
 public class Artifact:Actor{

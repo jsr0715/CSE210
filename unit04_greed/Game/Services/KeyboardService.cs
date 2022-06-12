@@ -1,8 +1,8 @@
 using Raylib_cs;
-using unit04_greed.GreedGame.Casting;
+using unit04_greed.Game.Casting;
 
 
-namespace unit04_greed.GreedGame.Services
+namespace unit04_greed.Game.Services
 {
     
     public class KeyboardService
