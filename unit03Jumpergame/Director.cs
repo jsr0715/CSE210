@@ -3,8 +3,7 @@ using System.Collections.Generic;
 
 namespace unit03_jumper
 {
-    
-    public class Director
+       public class Director
     {
 
         private bool isPlaying = true;

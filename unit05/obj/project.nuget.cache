@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7D8JqR4l7lCZoR3rzek4zbitp1rhfruaVD8AaIuBWPRrdV6wqki4GADbdm9wiWnegf1QU9o0v92NY/TKaPeLDQ==",
+  "success": true,
+  "projectFilePath": "/Users/surim/OneDrive/2022 Spring/CSE 210 Programming with Classes/cse210-unit05/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/surim/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/surim/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

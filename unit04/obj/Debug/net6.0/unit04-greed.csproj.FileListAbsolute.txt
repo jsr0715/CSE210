@@ -1,0 +1,15 @@
+/Users/surim/Documents/GitHub/dev/CSE210/unit04/obj/Debug/net6.0/unit04-greed.csproj.AssemblyReference.cache
+/Users/surim/Documents/GitHub/dev/CSE210/unit04/obj/Debug/net6.0/unit04-greed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surim/Documents/GitHub/dev/CSE210/unit04/obj/Debug/net6.0/unit04-greed.AssemblyInfoInputs.cache
+/Users/surim/Documents/GitHub/dev/CSE210/unit04/obj/Debug/net6.0/unit04-greed.AssemblyInfo.cs
+/Users/surim/Documents/GitHub/dev/CSE210/unit04/obj/Debug/net6.0/unit04-greed.csproj.CoreCompileInputs.cache
+/Users/surim/Documents/GitHub/dev/CSE210/unit04_greed/obj/Debug/net6.0/unit04-greed.csproj.AssemblyReference.cache
+/Users/surim/Documents/GitHub/dev/CSE210/unit04_greed/obj/Debug/net6.0/unit04-greed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surim/Documents/GitHub/dev/CSE210/unit04_greed/obj/Debug/net6.0/unit04-greed.AssemblyInfoInputs.cache
+/Users/surim/Documents/GitHub/dev/CSE210/unit04_greed/obj/Debug/net6.0/unit04-greed.AssemblyInfo.cs
+/Users/surim/Documents/GitHub/dev/CSE210/unit04_greed/obj/Debug/net6.0/unit04-greed.csproj.CoreCompileInputs.cache
+/Users/surim/Documents/GitHub/dev/CSE210/obj/Debug/net6.0/unit04-greed.csproj.AssemblyReference.cache
+/Users/surim/Documents/GitHub/dev/CSE210/obj/Debug/net6.0/unit04-greed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surim/Documents/GitHub/dev/CSE210/obj/Debug/net6.0/unit04-greed.AssemblyInfoInputs.cache
+/Users/surim/Documents/GitHub/dev/CSE210/obj/Debug/net6.0/unit04-greed.AssemblyInfo.cs
+/Users/surim/Documents/GitHub/dev/CSE210/obj/Debug/net6.0/unit04-greed.csproj.CoreCompileInputs.cache
